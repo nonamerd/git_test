@@ -1,0 +1,11 @@
+hello world
+My day has been busy af and I am trying my best to improve in this coding course.
+Basics seems to be understandable for now that I am riding with side wheels.
+I do not feel confident on riding by myself because this is like the first time that I am trying this.
+Also, notice that it is my second day playing with the CLI and basic commands of the SHELL, VSCode and Git.
+It is fun tho!
+.
+.
+.
+.
+..for now I guess.
